@@ -1,4 +1,4 @@
-# The Dynamic Programming of [*Top 100 Liked*](https://leetcode.com/studyplan/top-100-liked/)
+# The Dynamic Programming of [*Top 100 Liked*](https://leetcode.com/studyplan/top-100-liked/) in C++
 
 ## 0x01 Common Pattern
 
