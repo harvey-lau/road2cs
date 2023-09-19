@@ -1,4 +1,4 @@
-# The Zero2One of road2rust
+# The Zero2One of road2cs
 
 ## 0x01 Goal
 
