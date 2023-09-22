@@ -12,6 +12,7 @@ To be silicon-based in mentality.
 
 ### 2. Done
 
-- 2023-09-08: finished *The Dynamic Programming of [*Top 100 Liked*](https://leetcode.com/studyplan/top-100-liked/) in C++*.
+- 2023-09-08: finished *The Backtracking of [*Top 100 Liked*](https://leetcode.com/studyplan/top-100-liked/) in C++*.
+- 2023-09-22: finished *The Dynamic Programming of [*Top 100 Liked*](https://leetcode.com/studyplan/top-100-liked/) in C++*.
 
 ## 0x03 From Zero to Zero
