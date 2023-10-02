@@ -10,6 +10,12 @@ To be silicon-based in mentality.
 
 > The time of To Do means deadline.
 
+#### 2023-10-02
+
+- 2023-10
+  - 2023-10-15: finish *The Binary Search of [*Top 100 Liked*](https://leetcode.com/studyplan/top-100-liked/) in C++*.
+  - 2023-10-31: finish *The Binary Tree of [*Top 100 Liked*](https://leetcode.com/studyplan/top-100-liked/) in C++*.
+
 ### 2. Done
 
 - 2023-09-08: finished *The Backtracking of [*Top 100 Liked*](https://leetcode.com/studyplan/top-100-liked/) in C++*.
