@@ -16,4 +16,5 @@ This repository is *The Road to Computer Science*.
 
 - [The Backtracking of *Top 100 Liked* in C++](https://github.com/harvey-lau/road2cs/blob/main/1-src/programming/leetcode/top-100-liked/backtracking.md)
 - [The Binary Search of *Top 100 Liked* in C++](https://github.com/harvey-lau/road2cs/blob/main/1-src/programming/leetcode/top-100-liked/binary-search.md)
+- [The Binary Tree of *Top 100 Liked* in C++](https://github.com/harvey-lau/road2cs/blob/main/1-src/programming/leetcode/top-100-liked/binary-tree.md)
 - [The Dynamic Programming of *Top 100 Liked* in C++](https://github.com/harvey-lau/road2cs/blob/main/1-src/programming/leetcode/top-100-liked/dynamic-programming.md)
