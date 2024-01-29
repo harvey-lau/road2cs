@@ -30,5 +30,6 @@ To be silicon-based in mentality.
 - 2023-10-18: finished *The Binary Tree of [*Top 100 Liked*](https://leetcode.com/studyplan/top-100-liked/) in C++*.
 - 2023-11-15: finished *The Graph of [*Top 100 Liked*](https://leetcode.com/studyplan/top-100-liked/) in C++*.
 - 2023-11-20: finished *The Greedy of [*Top 100 Liked*](https://leetcode.com/studyplan/top-100-liked/) in C++*.
+- 2024-01-29: finished *The Path of [*The Fuzzing Book*](https://www.fuzzingbook.org/) I Picked*.
 
 ## 0x03 From Zero to Zero

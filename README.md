@@ -24,3 +24,5 @@ This repository is *The Road to Computer Science*.
 ## 0x04 Fuzzing
 
 ### 1. The Fuzzing Book
+
+1. [The Path of *The Fuzzing Book* I Picked](https://github.com/harvey-lau/road2cs/blob/main/1-src/fuzzing/the-fuzzing-book/0-path.md)
