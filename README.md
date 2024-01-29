@@ -20,3 +20,7 @@ This repository is *The Road to Computer Science*.
 - [The Dynamic Programming of *Top 100 Liked* in C++](https://github.com/harvey-lau/road2cs/blob/main/1-src/programming/leetcode/top-100-liked/dynamic-programming.md)
 - [The Graph of *Top 100 Liked* in C++](https://github.com/harvey-lau/road2cs/blob/main/1-src/programming/leetcode/top-100-liked/graph.md)
 - [The Greedy of *Top 100 Liked* in C++](https://github.com/harvey-lau/road2cs/blob/main/1-src/programming/leetcode/top-100-liked/greedy.md)
+
+## 0x04 Fuzzing
+
+### 1. The Fuzzing Book
