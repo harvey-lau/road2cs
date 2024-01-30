@@ -31,5 +31,6 @@ To be silicon-based in mentality.
 - 2023-11-15: finished *The Graph of [*Top 100 Liked*](https://leetcode.com/studyplan/top-100-liked/) in C++*.
 - 2023-11-20: finished *The Greedy of [*Top 100 Liked*](https://leetcode.com/studyplan/top-100-liked/) in C++*.
 - 2024-01-29: finished *The Path of [*The Fuzzing Book*](https://www.fuzzingbook.org/) I Picked*.
+- 2024-01-30: finished *The Notes of [Introduction of Software Testing](https://www.fuzzingbook.org/html/Intro_Testing.html)* and `newton_sqrt.py`.
 
 ## 0x03 From Zero to Zero
