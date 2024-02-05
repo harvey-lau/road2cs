@@ -13,6 +13,7 @@ This repository is *The Road to Computer Science*.
 ### 2. Python
 
 - [newton_sqrt.py](https://github.com/harvey-lau/road2cs/blob/main/1-src/programming/python/newton_sqrt.py)
+- [fuzzing.py](https://github.com/harvey-lau/road2cs/blob/main/1-src/programming/python/fuzzing.py)
 
 ### 3. LeetCode
 
@@ -29,3 +30,4 @@ This repository is *The Road to Computer Science*.
 
 1. [The Path of *The Fuzzing Book* I Picked](https://github.com/harvey-lau/road2cs/blob/main/1-src/fuzzing/the-fuzzing-book/0-path.md)
 2. [The Notes of *Introduction of Software Testing*](https://github.com/harvey-lau/road2cs/blob/main/1-src/fuzzing/the-fuzzing-book/1-undergraduate/1-intro-to-software-testing.md)
+3. [The Notes of *Fuzzing: Breaking Things with Random Inputs*](https://github.com/harvey-lau/road2cs/blob/main/1-src/fuzzing/the-fuzzing-book/1-undergraduate/2-fuzzing.md)
