@@ -14,22 +14,22 @@ To be silicon-based in mentality.
 
 - 2023-11
   - 2023-11-15: finish *The Graph of [*Top 100 Liked*](https://leetcode.com/studyplan/top-100-liked/) in C++*.
-  - 2023-11-30: finish *The Greedy of [*Top 100 Liked*](https://leetcode.com/studyplan/top-100-liked/) in C++*.
+  - 2023-11-30: finish *The Greedy of Top 100 Liked in C++*.
 
 #### 2023-10-02
 
 - 2023-10
-  - 2023-10-15: finish *The Binary Search of [*Top 100 Liked*](https://leetcode.com/studyplan/top-100-liked/) in C++*.
-  - 2023-10-31: finish *The Binary Tree of [*Top 100 Liked*](https://leetcode.com/studyplan/top-100-liked/) in C++*.
+  - 2023-10-15: finish *The Binary Search of Top 100 Liked in C++*.
+  - 2023-10-31: finish *The Binary Tree of Top 100 Liked in C++*.
 
 ### 2. Done
 
-- 2023-09-08: finished *The Dynamic Programming of [*Top 100 Liked*](https://leetcode.com/studyplan/top-100-liked/) in C++*.
-- 2023-09-22: finished *The Backtracking of [*Top 100 Liked*](https://leetcode.com/studyplan/top-100-liked/) in C++*.
-- 2023-10-14: finished *The Binary Search of [*Top 100 Liked*](https://leetcode.com/studyplan/top-100-liked/) in C++*.
-- 2023-10-18: finished *The Binary Tree of [*Top 100 Liked*](https://leetcode.com/studyplan/top-100-liked/) in C++*.
-- 2023-11-15: finished *The Graph of [*Top 100 Liked*](https://leetcode.com/studyplan/top-100-liked/) in C++*.
-- 2023-11-20: finished *The Greedy of [*Top 100 Liked*](https://leetcode.com/studyplan/top-100-liked/) in C++*.
+- 2023-09-08: finished *The Dynamic Programming of Top 100 Liked in C++*.
+- 2023-09-22: finished *The Backtracking of Top 100 Liked in C++*.
+- 2023-10-14: finished *The Binary Search of Top 100 Liked in C++*.
+- 2023-10-18: finished *The Binary Tree of Top 100 Liked in C++*.
+- 2023-11-15: finished *The Graph of Top 100 Liked in C++*.
+- 2023-11-20: finished *The Greedy of Top 100 Liked in C++*.
 - 2024-01-29: finished *The Path of [*The Fuzzing Book*](https://www.fuzzingbook.org/) I Picked*.
 - 2024-01-30: finished *The Notes of [Introduction of Software Testing](https://www.fuzzingbook.org/html/Intro_Testing.html)* and `newton_sqrt.py`.
 - 2024-02-05: finished *The Notes of [Fuzzing: Breaking Things with Random Inputs](https://www.fuzzingbook.org/html/Fuzzer.html)* and `fuzzing.py`.
